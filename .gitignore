@@ -1,5 +1,10 @@
-# Ignore all csv files
+# Ignore all csv and zip files
 *.csv
+*.zip
 
 # Ignore IPython checkpoints
 .ipynb_checkpoints/
+
+# Ignore lambda folder
+lambda/*
+.DS_Store
